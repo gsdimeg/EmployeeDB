@@ -1,2 +1,2 @@
-# EmplyeeDB
+# EmployeeDB
 LowLevel Academy Project
