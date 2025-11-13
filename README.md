@@ -1,2 +1,1 @@
-# EmployeeDB
-LowLevel Academy Project
+# This is a readme file
